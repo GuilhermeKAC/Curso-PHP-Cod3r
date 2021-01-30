@@ -15,6 +15,12 @@
         <main class="principal">
             <div class="conteudo">
                 <nav class="modulos">
+                <div class="modulo vermelho-escuro">
+                        <h3>7. Estrutura de Controle</h3>
+                        <ul>
+                            <li><a href="exercicio.php?dir=funcoes&file=escopo">Função & Escopo</a></li>
+                        </ul>
+                    </div>
                 <div class="modulo verde-escuro">
                         <h3>6. Estrutura de Controle 02</h3>
                         <ul>
