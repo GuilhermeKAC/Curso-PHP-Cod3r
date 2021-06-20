@@ -15,42 +15,72 @@
         <main class="principal">
             <div class="conteudo">
                 <nav class="modulos">
-                <div class="modulo azul-escuro">
-                    <h3>8. Classes & Objetos</h3>
-                    <ul>
-                        <li><a href="exercicio.php?dir=classes_objetos&file=classe">Primeira Classe</a></li>
-                        <li><a href="exercicio.php?dir=classes_objetos&file=classe_data">Classe Data</a></li>
-                        <li><a href="exercicio.php?dir=classes_objetos&file=construtor_destrutor">Construtor e Destrutor</a></li>
-                    </ul>
-                </div>
-                <div class="modulo vermelho-escuro">
-                    <h3>7. Estrutura de Controle</h3>
-                    <ul>
-                        <li><a href="exercicio.php?dir=funcoes&file=escopo">Função & Escopo</a></li>
-                        <li><a href="exercicio.php?dir=funcoes&file=args_retorno">Argumentos & Retorno</a></li>
-                        <li><a href="exercicio.php?dir=funcoes&file=palindromo">Desafio Palindromo</a></li>
-                        <li><a href="exercicio.php?dir=funcoes&file=args_variaveis">Argumentos Variáveis</a></li>
-                        <li><a href="exercicio.php?dir=funcoes&file=arg_padrao">Argumento Padrão</a></li>
-                        <li><a href="exercicio.php?dir=funcoes&file=usando_tipos">Usando Tipos</a></li>
-                        <li><a href="exercicio.php?dir=funcoes&file=anonimas">Funções Anônimas</a></li>
-                        <li><a href="exercicio.php?dir=funcoes&file=closure_callable">Closure & Callable</a></li>
-                        <li><a href="exercicio.php?dir=funcoes&file=recursividade">Recursividade</a></li>
-                        <li><a href="exercicio.php?dir=funcoes&file=retornando_funcao">Retornando Função</a></li>
-                        <li><a href="exercicio.php?dir=funcoes&file=map_filter">Map & Filter</a></li>
-                    </ul>
-                </div>
-                <div class="modulo verde-escuro">
-                    <h3>6. Estrutura de Controle 02</h3>
-                    <ul>
-                        <li><a href="exercicio.php?dir=repeticoes&file=for">Laço For</a></li>
-                        <li><a href="exercicio.php?dir=repeticoes&file=desafio_for">Desafio For</a></li>
-                        <li><a href="exercicio.php?dir=repeticoes&file=foreach">Foreach</a></li>
-                        <li><a href="exercicio.php?dir=repeticoes&file=break_continue">Break/Continue</a></li>
-                        <li><a href="exercicio.php?dir=repeticoes&file=desafio_impressao">Desafio Impressão</a></li>
-                        <li><a href="exercicio.php?dir=repeticoes&file=while">While/Do While</a></li>
-                        <li><a href="exercicio.php?dir=repeticoes&file=desafio_tabela">Desafio Tabela</a></li>
-                        <li><a href="exercicio.php?dir=repeticoes&file=desafio_tabela_2">Desafio Tabela 2</a></li>
-                    </ul>
+                    <div class="modulo roxo"> 
+                        <h3>13. API</h3>
+                        <ul>
+                            <li><a href="exercicio.php?dir=api&file=datas_01">Datas #01</a></li>
+                            <li><a href="exercicio.php?dir=api&file=datas_02">Datas #02</a></li>
+                            <li><a href="exercicio.php?dir=api&file=escrever_arquivo">Escrever arquivo</a></li>
+                        </ul>
+                    </div>
+                    <div class="modulo azul">
+                        <h3>12. sessão</h3>
+                        <ul>
+                        </ul>
+                    </div>
+                    <div class="modulo vermelho">
+                        <h3>11. Trat. de Erro</h3>
+                        <ul>
+                        </ul>
+                    </div>
+                    <div class="modulo verde">
+                        <h3>10. Namespace</h3>
+                        <ul>
+                        </ul>
+                    </div>
+                    <div class="modulo roxo-escuro">
+                        <h3>9. Includes</h3>
+                        <ul>
+                            <li><a href="exercicio.php?dir=includes&file=include">Include</a></li>
+                            <li><a href="exercicio.php?dir=includes&file=include_funcao">Include Funcao</a></li>
+                        </ul>
+                    </div>
+                    <div class="modulo azul-escuro">
+                        <h3>8. Classes & Objetos</h3>
+                        <ul>
+                            <li><a href="exercicio.php?dir=classes_objetos&file=classe">Primeira Classe</a></li>
+                            <li><a href="exercicio.php?dir=classes_objetos&file=classe_data">Classe Data</a></li>
+                            <li><a href="exercicio.php?dir=classes_objetos&file=construtor_destrutor">Construtor e Destrutor</a></li>
+                        </ul>
+                    </div>
+                    <div class="modulo vermelho-escuro">
+                        <h3>7. Estrutura de Controle</h3>
+                        <ul>
+                            <li><a href="exercicio.php?dir=funcoes&file=escopo">Função & Escopo</a></li>
+                            <li><a href="exercicio.php?dir=funcoes&file=args_retorno">Argumentos & Retorno</a></li>
+                            <li><a href="exercicio.php?dir=funcoes&file=palindromo">Desafio Palindromo</a></li>
+                            <li><a href="exercicio.php?dir=funcoes&file=args_variaveis">Argumentos Variáveis</a></li>
+                            <li><a href="exercicio.php?dir=funcoes&file=arg_padrao">Argumento Padrão</a></li>
+                            <li><a href="exercicio.php?dir=funcoes&file=usando_tipos">Usando Tipos</a></li>
+                            <li><a href="exercicio.php?dir=funcoes&file=anonimas">Funções Anônimas</a></li>
+                            <li><a href="exercicio.php?dir=funcoes&file=closure_callable">Closure & Callable</a></li>
+                            <li><a href="exercicio.php?dir=funcoes&file=recursividade">Recursividade</a></li>
+                            <li><a href="exercicio.php?dir=funcoes&file=retornando_funcao">Retornando Função</a></li>
+                            <li><a href="exercicio.php?dir=funcoes&file=map_filter">Map & Filter</a></li>
+                        </ul>
+                    </div>
+                    <div class="modulo verde-escuro">
+                        <h3>6. Estrutura de Controle 02</h3>
+                        <ul>
+                            <li><a href="exercicio.php?dir=repeticoes&file=for">Laço For</a></li>
+                            <li><a href="exercicio.php?dir=repeticoes&file=desafio_for">Desafio For</a></li>
+                            <li><a href="exercicio.php?dir=repeticoes&file=foreach">Foreach</a></li>
+                            <li><a href="exercicio.php?dir=repeticoes&file=break_continue">Break/Continue</a></li>
+                            <li><a href="exercicio.php?dir=repeticoes&file=desafio_impressao">Desafio Impressão</a></li>
+                            <li><a href="exercicio.php?dir=repeticoes&file=while">While/Do While</a></li>
+                            <li><a href="exercicio.php?dir=repeticoes&file=desafio_tabela">Desafio Tabela</a></li>
+                            <li><a href="exercicio.php?dir=repeticoes&file=desafio_tabela_2">Desafio Tabela 2</a></li>
+                        </ul>
                     </div>
                     <div class="modulo laranja">
                         <h3>5. Array</h3>
